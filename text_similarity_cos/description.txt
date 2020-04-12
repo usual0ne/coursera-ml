@@ -1,0 +1,1 @@
+From the text file "sentences.txt" finds the closest in meaning sentences using the cosine distance.

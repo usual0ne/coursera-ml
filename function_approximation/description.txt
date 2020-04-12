@@ -1,0 +1,1 @@
+Approximates a function with polynomials
