@@ -1,0 +1,1 @@
+Finds local minimum of a smooth function near the given point
