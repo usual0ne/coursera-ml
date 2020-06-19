@@ -1,1 +1,0 @@
-Minimizing a step function with BFGS and differential evolution
